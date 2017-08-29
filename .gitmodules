@@ -1,6 +1,9 @@
 [submodule "tensorflow"]
-	path = tensorflow
-	url = https://github.com/tensorflow/tensorflow.git
+path=tensorflow
+url = https://github.com/tensorflow/tensorflow
 [submodule "tf_models"]
-	path = tf_models
-	url = https://github.com/tensorflow/models.git
+path=tf_models
+url = https://github.com/tensorflow/models/
+[submodule "tf_models/syntaxnet/tensorflow"]
+path=tf_models/syntaxnet/tensorflow
+url = https://github.com/tensorflow/tensorflow.git

@@ -1,0 +1,1 @@
+bazel build -c opt --copt=-msse4.1 --copt=-msse4.2 --copt=-mavx --copt=-mavx2 --copt=-mfma --copt=-Ofast --copt=-ffp-contract=fast
