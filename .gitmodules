@@ -16,3 +16,6 @@ url = https://github.com/tensorflow/models
 [submodule "tpu-demos"]
 path=tpu-demos
 url = https://github.com/tensorflow/tpu-demos.git
+[submodule "tensor2tensor"]
+	path = tensor2tensor
+	url = https://github.com/tensorflow/tensor2tensor
